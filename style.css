@@ -1,0 +1,166 @@
+body {
+    margin: 0px;
+    padding-top: 800px;
+    text-align: center;
+}
+
+#about {
+    position: absolute;
+    height: 820px;
+    color: black;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    background: linear-gradient(#ff0000 0%, #ff00bf 100%);
+    display: table;
+    text-align: center;
+    z-index: 9;
+}
+
+#Myfavouritehobby {
+    background: linear-gradient(#ff0000 0%, #ff00bf 100%);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    height: 800px;
+}
+
+#Myfavouritebook {
+    background: linear-gradient(#ff0000 0%, #ff00bf 100%);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    height: 800px;
+}
+
+#Myinspiration {
+    background: linear-gradient(#ff0000 0%, #ff00bf 100%);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    height: 800px;
+}
+
+.profile {
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    display: table-cell;
+}
+
+.menu {
+   margin-top: 0px;
+    top: 0px;
+    background: white;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    width: 100%;
+}
+
+.link {
+   display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color:#85edff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#mypicture {
+    width: 360px;
+    height:500 
+}
+
+#badminton {
+    width: 360px;
+    height: 400px;
+}
+
+#Lifeofpi {
+    width: 400px;
+   height: 320px;
+}
+h1 {
+    font-family: 'New Tegomin', serif;
+}
+
+#name {
+    font-family: 'Lobster', cursive;
+}
+
+#hobby {
+    font-family: 'Dancing Script', cursive;
+}
+
+#book {
+    font-family: 'Dancing Script', cursive;
+}
+
+
+#inspiration {
+    font-family: 'Dancing Script', cursive;
+}
+
+p {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 60px;
+    margin: 8px auto;
+}
+.inspiration {
+    width: 360px;
+    height: 400px;
+    transition: transform .2s;
+}
+
+.inspiration:hover {
+    transform: scale(0.9);
+}
+#Contact {
+  background: linear-gradient(#ff0000 0%, #ff00bf 100%);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    height: 800px;
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+.Contact1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.Contact1 h3 {
+    display: inline;
+}
+#end{
+font-family: cursive
+}
+.fa fa-envelope{
+color: aliceblue;    
+}
